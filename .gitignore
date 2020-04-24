@@ -352,3 +352,5 @@ MigrationBackup/
 # ndk编译后的文件
 **/libs
 **/obj
+
+**/.metadata

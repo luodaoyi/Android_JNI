@@ -1,0 +1,1 @@
+[https://luodaoyi.com/p/android%e9%80%86%e5%90%91-jni%e9%9d%99%e6%80%81%e6%b3%a8%e5%86%8c.html](https://luodaoyi.com/p/android%e9%80%86%e5%90%91-jni%e9%9d%99%e6%80%81%e6%b3%a8%e5%86%8c.html)
