@@ -1,0 +1,2 @@
+rootProject.name='JNIRegisterDynamic'
+include ':app'

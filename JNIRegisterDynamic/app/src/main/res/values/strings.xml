@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JNIRegisterDynamic</string>
+    <string name="btn_div">除</string>
+    <string name="btn_mul">乘</string>
+    <string name="btn_sub">减</string>
+    <string name="btn_add">加</string>
+    <string name="str_text_value">...</string>
+</resources>
